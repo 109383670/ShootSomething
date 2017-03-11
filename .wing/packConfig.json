@@ -1,9 +1,0 @@
-{
-    "useClip": false,
-    "maxImageWidth": 2048,
-    "maxImageHeight": 2048,
-    "defaultResPath": "/Users/clara/egret/the4gry/resource/default.res.json",
-    "packGroups": {
-        "preload": true
-    }
-}
